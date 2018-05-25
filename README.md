@@ -1,4 +1,91 @@
 
+# VR Job Interviewing - Senior Project RIT (2018) 
+
+## Poster Presentation
+
+![Poster](Poster.png)
+
+## GRR DEMO
+
+### Entering the Application
+
+![splashscreen](Screenshots/splashscreen.gif)
+
+
+### Room Creation & Entering
+![vrManipulation](Screenshots/createVRRoom.gif)
+
+### The VR Room
+
+#### The Interview
+
+Student recieving interview email link
+![vrStudentInterview](Screenshots/email.gif)
+
+Student's perspective
+![vrStudentInterview](Screenshots/vrInterview.gif)
+
+Employeer's perspective
+![vrStudentInterview](Screenshots/screenShotEmployeer.png)
+
+**The Interview Gallery**
+
+![vrManipulation1](Screenshots/Screenshot(18).png)
+
+![vrManipulation2](Screenshots/Screenshot(19).png)
+
+![vrManipulation3](Screenshots/Screenshot(20).png)
+
+![vrManipulation4](Screenshots/Screenshot(21).png)
+
+![vrManipulation5](Screenshots/Screenshot(22).png)
+
+
+#### Manipulating Assets
+
+During Development
+![vrManipulationDev](Screenshots/devImageManipulation.gif)
+
+In App
+![vrManipulationApp](Screenshots/vrManipulation.gif)
+
+**Manipulating Assets Gallery**
+![vrManipulation](Screenshots/Screenshot(2).png)
+
+![vrManipulation](Screenshots/Screenshot(3).png)
+
+![vrManipulation](Screenshots/Screenshot(4).png)
+
+![vrManipulation](Screenshots/Screenshot(5).png)
+
+![vrManipulation](Screenshots/Screenshot(6).png)
+
+![vrManipulation](Screenshots/Screenshot(7).png)
+
+![vrManipulation](Screenshots/Screenshot(8).png)
+
+![vrManipulation](Screenshots/Screenshot(9).png)
+
+![vrManipulation](Screenshots/Screenshot(10).png)
+
+![vrManipulation](Screenshots/Screenshot(11).png)
+
+![vrManipulation](Screenshots/Screenshot(12).png)
+
+![vrManipulation](Screenshots/Screenshot(13).png)
+
+![vrManipulation](Screenshots/Screenshot(14).png)
+
+![vrManipulation](Screenshots/Screenshot(15).png)
+16
+![vrManipulation](Screenshots/Screenshot(16).png)
+
+![vrManipulation](Screenshots/Screenshot(17).png)
+
+
+
+
+
 ## Pre-reqs
 1) Install nodejs & npm: https://nodejs.org/en/download/package-manager/
 2) Make sure git is installed on your machine: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
